@@ -7,8 +7,8 @@ Inspired by the Ministry of Testing 30 day challenge this repo is intended to he
 Be sure to share your progress! And don't forget to use the #30DAYSOFTESTING
 
 
-#Task list
-Complete in any order you like!
+#Test Challenges!
+*Complete in any order you like!*
 
 - [ ] BUY ONE TESTING RELATED BOOK AND READ IT BY DAY 30
 - [ ] TAKE A PHOTO OF SOMETHING YOU ARE DOING AT WORK
