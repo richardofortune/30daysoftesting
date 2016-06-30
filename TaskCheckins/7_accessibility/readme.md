@@ -14,4 +14,4 @@ The website I tested today had 28 contrast violations on the first page I checke
 
 These are 28 instances of a visual cue being potentially invisible to someone with diminished visual capability. I'm not talking about  someone who is medically classified as blind, I'm talking about people with less than perfect eyesight, not being able to do what they need to, because the page they are using is not perceivable. You can read more on the four principles of accessibility [here](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html)  
 
-I've raised the issue with the appropriate team. I'm hoping they can see that the value in fixing this outweights the cost of implementing a fix.
+I've raised the issue with the appropriate team. I'm hoping they can see that the value in fixing this out-weights the cost of implementing a fix.
