@@ -1,7 +1,7 @@
 #30 DAYS OF TESTING
 ##ONE BIG CHALLENGE.
 
-![alt text](./images/mot-logo400-clear.png "Hat Tip to Ministry Of Testing!")
+![alt text](./images/logo/mot-logo400-clear.png "Hat Tip to Ministry Of Testing!")
 Inspired by the Ministry of Testing 30 day challenge this repo is intended to help track and share your progress. Fork as required and create Task checkins with proof as you achieve tick off your testing challenges!
 
 Be sure to share your progress! And don't forget to use the #30DAYSOFTESTING
