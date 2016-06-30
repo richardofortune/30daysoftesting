@@ -16,7 +16,7 @@ Be sure to share your progress! And don't forget to use the #30DAYSOFTESTING
 - [ ] SHARE A TESTING BLOG POST WITH A NON-TESTER
 - [ ] READ AND COMMENT ON ONE BLOG POST
 - [ ] PERFORM A CRAZY TEST
-- [x] FIND AN ACCESSIBILITY BUG
+- [x] [FIND AN ACCESSIBILITY BUG](https://github.com/richardofortune/30daysoftesting/blob/person/richardF/TaskCheckins/7_accessibility/readme.md)
 - [ ] DOWNLOAD A MOBILE APP, FIND BUGS AND SEND THE FEEDBACK TO THE CREATOR
 - [ ] CREATE A MINDMAP
 - [ ] FIND AN EVENT TO ATTEND (ONLINE OR FACE TO FACE)
