@@ -10,7 +10,7 @@ Be sure to share your progress! And don't forget to use the #30DAYSOFTESTING
 #Test Challenges!
 *Complete in any order you like!*
 
-- [ ] BUY ONE TESTING RELATED BOOK AND READ IT BY DAY 30
+- [x] [BUY ONE TESTING RELATED BOOK AND READ IT BY DAY 30](https://github.com/richardofortune/30daysoftesting/blob/person/richardF/TaskCheckins/1_book/readme.md)
 - [ ] TAKE A PHOTO OF SOMETHING YOU ARE DOING AT WORK
 - [ ] LISTEN TO A TESTING PODCAST
 - [ ] SHARE A TESTING BLOG POST WITH A NON-TESTER
